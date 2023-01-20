@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app usado para rastrear os hábitos.
 
+- [Visite o projeto online](https://alcantaravca.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
