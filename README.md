@@ -1,8 +1,5 @@
 <h1 align="center"> Habits </h1>
 
-<p align="center">
- Habits is a project of a web page, where it is possible to track daily habits, it was made through NLW. ** NLW - Next Level Week ** offered by [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/). NLW is an exclusive and free event, promoted by Rocketseat for teaching WEB technologies. <br/>
-</p>
 
 <p align="center">
   <img alt="version" src="https://img.shields.io/badge/version-v1.0-blue">
@@ -32,6 +29,11 @@
 <p align="center">
   <img alt="Habits project" src=".github/preview.jpg" width="100%">
 </p>
+
+## 🔖 About
+
+ Habits is a project of a web page, where it is possible to track daily habits, it was made through NLW. ** NLW - Next Level Week ** offered by [Rocketseat](https://blog.rocketseat.com.br/). NLW is an exclusive and free event, promoted by Rocketseat for teaching WEB technologies. <br/>
+
 
 ## 🚀 Technologies
 
