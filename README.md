@@ -20,6 +20,7 @@
 </h4>
 
 <p align="center">
+  <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnhologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -66,9 +67,12 @@ You can view the project layout through [THIS LINK](https://www.figma.com/commun
  <sub><b>Victor Alcantara</b></sub></a> <a href="https://https://www.linkedin.com/in/victor-coutinho-de-alc%C3%A2ntara-8538aa263/" title="Linkedin"></a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-coutinho-de-alc%25C3%25A2ntara-8538aa263%2F)](https://www.linkedin.com/in/victor-coutinho-de-alc%C3%A2ntara-8538aa263/) 
-[![Gmail Badge](https://img.shields.io/badge/alcantaravca%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto%3Aalcantaravca%40gmail.com
-)](mailto:alcantaravca@gmail.com)
+<p>
+	<img alt="linkedin victor" src="https://img.shields.io/badge/Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-coutinho-de-alc%25C3%25A2ntara-8538aa263%2F">
+     
+<img alt="gmail victor" src="https://img.shields.io/badge/alcantaravca%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto%3Aalcantaravca%40gmail.com">
+
+</p>
  
 ## :memo: License
 
