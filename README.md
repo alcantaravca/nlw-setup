@@ -1,8 +1,23 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-NLW is an exclusive and free event, promoted by Rocketseat for teaching WEB technologies. <br/>
+ Habits is a project of a web page, where it is possible to track daily habits, it was made through NLW. ** NLW - Next Level Week ** offered by [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/). NLW is an exclusive and free event, promoted by Rocketseat for teaching WEB technologies. <br/>
 </p>
+
+<p align="center">
+  <img alt="version" src="https://img.shields.io/badge/version-v1.0-blue">
+     
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+
+  <a href="https://www.linkedin.com/in/victor-coutinho-de-alc%C3%A2ntara-8538aa263/"> 
+   <img alt="made by Victor Alcantara" src="https://img.shields.io/badge/made_by-Victor_Alcantara-orange">
+  </a>
+</p>
+
+
+<h4 align="center"> 
+	 Status: Finished
+</h4>
 
 <p align="center">
   <a href="#-tecnhologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,9 +26,6 @@ NLW is an exclusive and free event, promoted by Rocketseat for teaching WEB tech
   <a href="#memo-license">License</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
 
 <br>
 
@@ -40,10 +52,13 @@ Habits is an app used to track habits.
 
 You can view the project layout through [THIS LINK](https://www.figma.com/community/file/1187422022288947321). It is necessary to have a [Figma](https://figma.com) account to access it.
  .  Figma 
+
+## Author
+ 
 ## :memo: License
 
 This project is licensed under the MIT license.
 
 ---
 
-Made with ♥ by Victor Alcantara :wave:
+Made with ♥ by Victor Alcantara :wave: [Get in Touch!](https://www.linkedin.com/in/victor-coutinho-de-alc%C3%A2ntara-8538aa263/)
